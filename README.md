@@ -49,7 +49,7 @@ pip install pandas numpy matplotlib seaborn statsmodels
 ## Usage
 1. Clone this repository to your local machine.
 2. Upload the dataset (`temperature_data.csv`) to your Google Drive.
-3. Open the provided Jupyter notebook (`climate_data_analysis.ipynb`) in Google Colab.
+3. Open the provided Jupyter notebook (`climate_analysis.ipynb`) in Google Colab.
 4. Follow the instructions in the notebook to execute the code cells and reproduce the analysis.
 5. Modify the code as needed to explore additional analysis or customize visualizations.
 
